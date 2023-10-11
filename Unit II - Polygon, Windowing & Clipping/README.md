@@ -16,7 +16,7 @@
 > * We do inside test to check if the given pixel is  inside the polygon or not.
 > * Even - Odd Method:
 > 	* Construct a line segment between the point in question & a known to be outside polygon.
-> 	* Count t he intersection of line with polygon boundaries.
+> 	* Count the intersection of line with polygon boundaries.
 > 		* Inside : Odd no. of intersection
 > 		* Outside: even no. of intersection
 > 	* If intersection point in vertex: Then look at other end points of line segment.
